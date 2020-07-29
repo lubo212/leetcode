@@ -6,7 +6,6 @@ package 树.简单;
  */
 
 
-import 树.Node;
 import 树.TreeNode;
 
 import java.util.ArrayList;
